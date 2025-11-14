@@ -9,6 +9,7 @@ We begin with using the Arachadonic Acid metabolism model defined by Jahagirdar 
 . The model is provided here: Models/AA_model Jahagirdar2019.xml.
 
 500 samples were generated using MATLAB (the program code is "Models/HealthyBaseline.m").
+The data generated for this project (as well as additional visualization of inferred networks) is available: [link](https://zenodo.org/records/17246740)
 
 -----
 Data Generation<br>
